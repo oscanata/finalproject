@@ -4,7 +4,7 @@
 *Provide a concise and descriptive title for your project.*
 
 ## Project Description:
-*Write a detailed description of what your project aims to achieve. Include the motivation behind this project, the problem your project solves/the value it adds, the main goals, and why it is useful or interesting. *
+*Write a detailed description of what your project aims to achieve. Include the motivation behind this project, the problem your project solves/the value it adds, the main goals, and why it is useful or interesting.*
 
 ## Technical Specifications
 *Detail the main technologies and libraries you will use. Explain your choice of technology and how it supports your project goals.*
