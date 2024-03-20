@@ -1,9 +1,9 @@
 # Semester Project Template
 
-## Project Title:
+## Project Title
 *Provide a concise and descriptive title for your project.*
 
-## Project Description:
+## Project Description
 *Write a detailed description of what your project aims to achieve. Include the motivation behind this project, the problem your project solves/the value it adds, the main goals, and why it is useful or interesting.*
 
 ## Technical Specifications
@@ -19,7 +19,12 @@
 ## Development Methodology
 *Describe the methodology you'll use to organize and progress your work.*
 
-First, describe your plan for developing your project. This might include how you plan to use Github issues to keep track of issues, Github pull requests to update and version control your project, Github projects board to track progress on tasks and milestones, or Github actions for automated testing or deployment pipelines. Please also describe you will test and evaluate your project's functionality.
+First, describe your plan for developing your project. This might include how you plan to use
+- Github issues to keep track of issues
+- Github pull requests to update and version control your project
+- Github projects board to track progress on tasks and milestones
+- Github actions for automated testing or deployment pipelines
+Please also describe you will test and evaluate your project's functionality.
 
 Second, please include your intermediate milestones and overall timeline (which can be adjusted as your project progresses).
 
@@ -30,7 +35,7 @@ For example, each milestone should have a deadline and a set of deliverables ass
 3. **Milestone 3:** [Description] - Due Date
 4. **Final Submission:** [Description] - Due Date
 
-Deliverables may include software components or documentation. Some examples are.
+Deliverables may include software components or documentation. Some examples are:
 - Source code with comments
 - Unit tests covering critical functionality
 - Documentation for setup and deployment
