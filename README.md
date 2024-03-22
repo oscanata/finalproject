@@ -1,5 +1,16 @@
 # Semester Project Template
 
+*To track progress on the project, we will use the following intermediate milestones for your overall project. Each milestone will be marked with a tag in the git repository, and we will check progress at key milestones.*
+
+1. **March 29:** Submit project description (README) (git tag)
+2. **April 5:** Reflect on TA feedback on project direction/scope (git tag)
+3. **April 12:** Milestone 1: Basic project structure and empty functions/classes (incomplete implementation) (git tag)
+4. **April 19:** Milestone 2: Progress on implementation (define your own milestone) (git tag)
+5. **April 26:** Milestone 3: Mostly-finished prototype (git tag)
+6. **May 10:** Final Project update (conclusion, README update, etc.)
+
+To define your own milestone, examples might include writing source code for key features with comments, developing unit tests covering critical functionality, or deploying your project so it's publicly accessible. 
+
 ## Project Title
 *Provide a concise and descriptive title for your project.*
 
@@ -8,7 +19,6 @@
 
 ## Technical Specifications
 *Detail the main technologies and libraries you will use. Explain your choice of technology and how it supports your project goals.*
-
 
 ## Features and User Stories
 *List the key features of your project. For each feature, provide a user story or a simple scenario explaining how the feature will be used.*
@@ -19,29 +29,15 @@
 ## Development Methodology
 *Describe the methodology you'll use to organize and progress your work.*
 
-First, describe your plan for developing your project. This might include how you plan to use
+Describe your plan for developing your project. This might include how you plan to use
 - Github issues to keep track of issues
 - Github pull requests to update and version control your project
 - Github projects board to track progress on tasks and milestones
 - Github actions for automated testing or deployment pipelines
-Please also describe you will test and evaluate your project's functionality.
 
-Second, please include your intermediate milestones and overall timeline (which can be adjusted as your project progresses).
+Please also describe your plan to test and evaluate your project's functionality.
 
-For example, each milestone should have a deadline and a set of deliverables associated with it.
 
-1. **Milestone 1:** [Description] - Due Date
-2. **Milestone 2:** [Description] - Due Date
-3. **Milestone 3:** [Description] - Due Date
-4. **Final Submission:** [Description] - Due Date
-
-Deliverables may include software components or documentation. Some examples are:
-- Source code with comments
-- Unit tests covering critical functionality
-- Documentation for setup and deployment
-- Progress reports (bi-weekly)
-- Final report detailing the project's scope, challenges encountered, and final outcomes
-- User manual or guide
 
 ## Potential Challenges and Roadblocks
 *Identify any potential challenges or roadblocks you anticipate facing during the development of your project. For each challenge, propose strategies or solutions you might use to overcome them, which may include getting help from the TAs/instructor. This could include technical hurdles or learning new technologies.*
