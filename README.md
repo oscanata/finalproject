@@ -1,13 +1,16 @@
 # COMS W3132 Individual Project
 
 ## Author
-*Your name and email goes here.*
+Oscar Fishman
+omf2109@columbia.edu
 
 ## Project Title
 *Provide a short and descriptive title for your project.*
+Minesweeper 
+
 
 ## Project Description
-*Write a short, concise project description of what your project aims to achieve. Include the motivation for this project (why do you want to work on it), the problem your project aims to solve, and the main goals that you want to accomplish within the rest of the semester. Also mention why you think the project might be useful or interesting to others. Keep this section short. A couple of paragraphs would do.*
+My project aims to recreate the classic arcade game Minesweeper. The game consists of a grid of clickable tiles, with hidden mines hidden throughout the field. The player attempts to fill the board by using logic and information about neighboring mines to not click any of the mines. In recreating Minesweeper, I can create multiple game modes that are inovative. I will create a competitive mode where friends can race against each other. I will also create a custom gamemode in which you can design your own maps. I am to add a new fun twist to the classic video game and rejuvinate it with modern standards for online games. 
 
 ## Timeline
 
@@ -25,33 +28,40 @@
 *The column Deliverables lists deliverable suggestions, but you can choose your own, depending on the type of your project.*
 
 ## Requirements, Features and User Stories
-*List the key requirements or features of your project. For each feature, provide a user story or a simple scenario explaining how the feature will be used. You don't have to get this section right the first time. Your understanding of the problem and requirements will improve as you work on your project. It is okay (and desirable) to come back to this section and revise it as you learn more about the problem you are trying to solve. The first version of this section should reflect your understanding of your problem at the beginning of the project.*
+The Minesweeper game would require a timer, multiplayer functionality, customizable capabilities, varying difficulties, timed levels and more. 
 
-*Also list any required hardware, software, on online services you will need. In specific cases, we might be able to lend you hardware or obtain online services. Please email the instructor for more details.*
+The timer will be used to let users understand how well they preformed and keep rankings for each difficulty level.
+
+The multiplayer functionality will allow players to make the game more interesting and social. 
+
+The customizable capabilities will allow friends to make levels for each other, reveal love notes, create secrete messages and more. 
+
+The varying difficulties will make sure that the game remains fun for all skill levels of players.
+
+The timed levels allows someone to play competitively by themselves. It's a race against the clock.
 
 ## Technical Specification
 *Detail the main algorithms, libraries, and technologies you plan to use. Explain your choice of technology and how it supports your project goals.*
 
+I plan to use normal python programming through Anaconda and the pygame library to create the game. I plan on using numpy matrices to store the data. 
+
 ## System or Software Architecture Diagram
-*Include a block-based diagram illustrating the architecture of your software or system. This should include major components, such as user interface elements, back-end services, and data storage, and show how they interact. Tools like Lucidchart, Draw.io, or even hand-drawn diagrams photographed and uploaded are acceptable. The purpose of the diagram is to help us understand the architecture of your solution. Diagram asthetics do not matter and will not be graded.*
+
+I don't think I can upload photos here. This is a link to the diagram:
+
+https://drive.google.com/file/d/1iGAWn8dbUJe1AOGyLgX9lXs7XKYFO3j7/view?usp=sharing
 
 ## Development Methodology
 *Describe the methodology you'll use to organize and progress your work.*
 
-*First, describe your plan for developing your project. This might include how (or if) you plan to use*
-- *GitHub projects board to track progress on tasks and milestones*
-- *GitHub issues to keep track of issues or problems*
-- *Separate Git branches and/or GitHub pull requests for development*
-- *GitHub actions for automated testing or deployment pipelines*
-- *GitHub wiki for documentation and notes*
-
-*Please also describe how (if) you plan test and evaluate your project's functionality. Do you plan to test manually or automatically? Any specific testing frameworks or libraries you plan to use?*
+I plan on using Github project boards and git commits. I plan to test the product's functionality through extensive manual testing, by myself and with others playing.
 
 ## Potential Challenges and Roadblocks
-*Identify any potential challenges or roadblocks you anticipate facing during the development of your project. For each challenge, propose strategies or solutions you might use to overcome them, which may include getting help from the TAs/instructor. This could include technical hurdles or learning new technologies.*
+I'm not familiar with the pygame library and will most likely encounter images with rendering the project visually. I plan on first turning to online resources and then contacting TAs.
 
 ## Additional Resources
-*Include any additional resources, tutorials, or documentation that will be helpful for this project.*
+
+I expect that various forums online will be great for finding useful information on these topics. 
 
 ## Conclusion and Future Work
-*Wrap up your project description with any final thoughts, expectations, or goals not covered in the sections above. Also briefly discuss potential future work, i.e., what could be done next to improve the project.*
+I'm very excited about putting my own twist on the Minesweeper game. I would like to, in future iterations, create an entire arcade UI so that multiple games can be played in the same app
