@@ -1,13 +1,20 @@
 # COMS W3132 Individual Project
 
 ## Author
-*Your name and email goes here.*
+Oscar Fishman
+omf2109@columbia.edu
 
 ## Project Title
 *Provide a short and descriptive title for your project.*
+Minesweeper  
 
 ## Project Description
 *Write a short, concise project description of what your project aims to achieve. Include the motivation for this project (why do you want to work on it), the problem your project aims to solve, and the main goals that you want to accomplish within the rest of the semester. Also mention why you think the project might be useful or interesting to others. Keep this section short. A couple of paragraphs would do.*
+
+My project aims to recreate the classic arcade game minesweeper. This will hopefully be a 
+
+
+My project aims to create a robotic device that would be remote controlled and able to both mop and sweep the floors. It would have containers for water and soap for the mopping and suction to vacuum the dust that the bot had swept up. The sweeping would be done first and the mopping second. I chose this project so that I could clean my apartment, get in the nooks and crannies, and enjoy myself while doing it. This project partially overlaps with a roomba. The difference is that it becomes a game that children will enjoy playing with while doing something productive. It will also mop the floors, which a roomba cannot do. 
 
 ## Timeline
 
@@ -55,3 +62,5 @@
 
 ## Conclusion and Future Work
 *Wrap up your project description with any final thoughts, expectations, or goals not covered in the sections above. Also briefly discuss potential future work, i.e., what could be done next to improve the project.*
+
+
