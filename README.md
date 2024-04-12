@@ -13,6 +13,7 @@ Minesweeper
 
 My project aims to recreate the classic arcade game minesweeper. This will hopefully be a new take on a classic arcade game. The game, in its classic form, consists of randomly spread out bombs throughout a grid pattern. The player attempts to deduce logically where the mines are given knowledge of how many mines are in the 8 squares surrounding a given square. When the player is sure that there is no bomb on a certain square the player may click the square, if it wasn’t, they unlock new data, however,  if it was a bomb, they lose. 
 I hope to capture the games classic charm and allure and add new game modes that will freshen the game up and create new interesting ways to play and enjoy, both alone and with friends. Minesweeper is such an amazing game that has lost favor in recent decades. However, hopefully with a new, competitive spin on the game people could grow to love it again. 
+I hope to do as much of this as possible. However, considering the feedback from Professor Janak, I may not be able to complete all of this and will, at bare minimum, have a working game. 
 
 ## Timeline
 
@@ -45,9 +46,9 @@ I plan on using the Pygame library as well as many of the data structures we use
 ## System or Software Architecture Diagram
 *Include a block-based diagram illustrating the architecture of your software or system. This should include major components, such as user interface elements, back-end services, and data storage, and show how they interact. Tools like Lucidchart, Draw.io, or even hand-drawn diagrams photographed and uploaded are acceptable. The purpose of the diagram is to help us understand the architecture of your solution. Diagram aesthetics do not matter and will not be graded.*
 
-
 Here is the link to my diagram:
 https://drive.google.com/file/d/1iGAWn8dbUJe1AOGyLgX9lXs7XKYFO3j7/view?usp=sharing
+
 
 ## Development Methodology
 *Describe the methodology you'll use to organize and progress your work.*
@@ -81,4 +82,5 @@ I foresee utilizing many resources as I go along that will change as I go. I’m
 
 
 I foresee this project snowballing into an arcade type app in which I revamp many old arcade games and users would have the chance to pick and choose what antiquated game they’d like to play in a new, fun, social way. 
+
 
